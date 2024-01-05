@@ -1,0 +1,53 @@
+.container{
+    border: 1px solid blue;
+    padding: 5%;
+    margin: 10%;
+    float: left;
+    border-collapse: collapse;
+    border-radius: 20px;
+    background-color: rgb(43, 9, 63);
+    color: white;
+    text-align: center;
+    border-style: double ;
+    border-width: 100%;
+    
+}
+.body{
+    text-align: center;
+    background-color: rgb(108, 6, 121);
+    background-blend-mode: multiply;
+    
+}
+.text{
+    float: right;
+}
+.butt{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(108, 6, 121);
+    border: 0.5px solid blue;
+    border-collapse: collapse;
+    border-radius: 5px;
+    padding: 7px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.clo{
+    float: left;
+    padding: 20px;
+    margin: 15px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    background-color: rgb(108, 6, 121);
+    font-family: 'Times New Roman', Times, serif;
+}
+.tym{
+    border: 1px solid white;
+}
+.foot{
+    text-align: center;
+    color: white;
+    float: left;
+}
