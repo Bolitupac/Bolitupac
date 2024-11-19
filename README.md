@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bolitupac
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning c and javascript
-- 💞️ I’m looking to collaborate on any web development project
+- 🌱 I’m currently learning java and GDscript
+- 💞️ I’m looking to collaborate on any project
 - 📫 Reach me on whatsapp with this number 07037371590
 
 <!---
