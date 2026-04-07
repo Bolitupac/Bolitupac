@@ -1,75 +1,94 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nanbol+Felix+Dassak!;Backend+Engineer+%40+PICTDA;Django+%7C+Flask+%7C+Godot+Dev;Building+Inclusive+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nanbol+Felix+Dassak!;AI+Engineer+Intern+%40+NNPC;Backend+Developer+%7C+Automation;Python+%7C+n8n+%7C+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=00FFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=40&fontColor=00FFFF" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-> “If you want something you've never had, you must be willing to do something you've never done.”
+I'm **Nanbol Felix Dassak**, a **Software Engineer & AI Enthusiast** from Nigeria 🇳🇬.
 
-I'm **Nanbol Felix Dassak**, a curious and passionate **Software Engineer** from Nigeria 🇳🇬. Currently, I am a **Software Engineering student** at **Babcock University** and gaining real-world experience as a **Backend Developer Intern** at **PICTDA (Plateau State ICT Development Agency)**.
+- 🎓 Software Engineering student at **Babcock University**
+- 💼 Backend Developer Intern at **NNPC (Nigerian National Petroleum Company Limited)**
+- 🏢 Former Backend Developer Intern at **PICTDA (Plateau State ICT Development Agency)**
+- 🤖 Focused on **AI, Automation, and Backend Systems**
+- 🚀 Passionate about building **real-world solutions and scalable systems**
+
+🔗 **Portfolio Website:**  
+👉 https://bolitupac.github.io/My-Websit/
 
 ---
 
-## 🛠️ Tech Stack Registry
+## 🧠 What I Do
 
-> Languages, frameworks, and engines I use to build the future:
+- 🔧 Build backend systems using **Python (Flask/Django) & PHP**
+- 🤖 Create **AI-powered tools** (like PR audit systems)
+- 🔄 Design workflows using **n8n automation**
+- 🗄️ Work with databases (**MySQL, SQL**)
+- 🌐 Develop responsive web applications
+- 🎮 Explore game development using **Godot**
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-008080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
 </p>
 
 ---
 
-## 🚧 Currently Working On
+## 🚀 Featured Projects
 
-- 🏛️ **Government Digital Services:** Architecting backend solutions at **PICTDA**.
-- 🤖 **AI & Automation:** Integrating smart models into **Django/Flask** APIs.
-- 🎮 **Game Development:** Refining mechanics in **Godot** for upcoming indie titles.
-- 📚 **Degree Progress:** Pushing through my Software Engineering degree at **Babcock**.
-
----
-
-## 📂 Portfolio Registry
-
-<details open>
-  <summary><b>🕹️ One Chance Game (Godot)</b></summary>
-  Interactive game developed using <b>GDScript</b>. This project showcases my transition into game logic, state management, and interactive storytelling.
-</details>
-
-<details>
-  <summary><b>🎙️ Kenn2Talkroom Podcast Platform</b></summary>
-  A sleek web platform for podcast streaming and community engagement.
-  <br>🔗 <a href="http://www.kenn2talkroom.online/">Live Site</a> | 🔗 <a href="https://github.com/Bolitupac/kenn2talkroom">Source Code</a>
-</details>
-
-<details>
-  <summary><b>🍔 Foober – Food Ordering (Accessibility)</b></summary>
-  A specialized platform for the <b>deaf and mute community</b> featuring secure Paystack integration.
-  <br>🔗 <a href="https://github.com/Bolitupac/My-Websit">View Project</a>
-</details>
-
-<details>
-  <summary><b>🛡️ Army Website</b></summary>
-  A conceptual defense platform representing a vision for a tech-driven rapid-response force.
-  <br>🔗 <a href="https://github.com/Bolitupac/army-website.git">Source Code</a>
-</details>
+### 🌐 Personal Portfolio Website
+Your central hub showcasing your work, skills, and projects  
+🔗 https://bolitupac.github.io/My-Websit/
 
 ---
 
-## 📊 GitHub Stats & Performance
+### 🤖 AI PR Audit Tool
+An AI-powered system that audits pull requests and improves code quality automatically.
+
+---
+
+### 🍔 Foober – Food Ordering Platform
+A platform designed with accessibility in mind (especially for the deaf & mute community).  
+🔗 https://github.com/Bolitupac/Foober
+
+---
+
+### 🎙️ Kenn2Talkroom Podcast Platform
+Streaming + community-based podcast platform  
+🔗 http://www.kenn2talkroom.online/  
+🔗 https://github.com/Bolitupac/kenn2talkroom
+
+---
+
+### 🛡️ Army / Defense Concept Website
+A futuristic military-tech concept platform  
+🔗 https://github.com/Bolitupac/army-website
+
+---
+
+### 🎮 One Chance Game (Godot)
+A decision-based rescue game focused on urgency and survival mechanics.
+
+---
+
+## 📊 GitHub Stats & Coding Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bolitupac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -82,12 +101,14 @@ I'm **Nanbol Felix Dassak**, a curious and passionate **Software Engineer** from
 
 ---
 
-## 🎮 Fun Facts
 
-- 🎮 **War Thunder:** Tactical and aviation simulation enthusiast.
-- 🏢 **Software Inc:** I play this to master the **business and management side** of software firms—understanding team dynamics and project scaling.
-- 🧠 **Vision:** Merging **Military Innovation** with high-end software for national security.
-- 🎧 **Music:** Afrobeats, Hip-Hop, and Gospel (Lecrae, 1K Phew, Hulvey).
+
+## 🧠 Fun + Vision
+
+- 🎮 Into **War Thunder & strategy games**
+- 🧠 Love **AI + problem solving**
+- 🛡️ Vision: Build **advanced tech systems for security, automation & real-world impact**
+- 🎧 Music: Afrobeats | Hip-hop | Gospel
 
 ---
 
