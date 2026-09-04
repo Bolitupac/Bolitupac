@@ -19,7 +19,7 @@ I'm **Nanbol Felix Dassak**, a **Software Engineer & AI Enthusiast** from Nigeri
 - 🚀 Passionate about building **real-world solutions and scalable systems**
 
 🔗 **Portfolio Website:**  
-👉 [https://bolitupac.github.io/My-Websit/](https://bolitupac.github.io/Portfolio/)
+👉 [MY PORTFOLIO](https://bolitupac.github.io/Portfolio/)
 
 ---
 
