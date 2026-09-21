@@ -16,7 +16,7 @@ I'm **Bolitupac**, an **AI Systems Architect and Software Engineer** from Nigeri
 - 🐧 Ubuntu is my primary operating system
 - 🏆 Winner of **Clash of Devs 2.0 Game Jam Nigeria**
 
-🔗 **Explore my portfolio:** [bolitupac.github.io/My-Websit/portfolio.html](https://bolitupac.github.io/My-Websit/portfolio.html)
+🔗 **Explore my portfolio:** [https://bolitupac.github.io/Portfolio/](https://bolitupac.github.io/Portfolio/)
 
 ## 🧠 What I Do
 
