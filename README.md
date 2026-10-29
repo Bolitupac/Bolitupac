@@ -4,7 +4,7 @@ Software Engineering student at **Babcock University** (graduating 2027)
 
 *i am the future*
 
-Previously interned at **Pictoda** and **NNPC**.  
+Previously interned at **PICTDA** and **NNPC**.  
 Currently volunteering at **GDG on Campus Babcock**.
 
 🔗 [Portfolio](https://bolitupac.github.io/Portfolio/)
@@ -31,10 +31,9 @@ Currently volunteering at **GDG on Campus Babcock**.
 
 ### Projects
 
-- **[PR-AI Auditor](https://pr-ai.onrender.com/auditor)** — AI code review tool for GitHub & GitLab pull requests
-- **Tarok Nurses Management System** — Membership and admin platform for Tarok Nurses Forum
-- **Wardrobe Planner AI** — Mobile concept that suggests outfits using computer vision
-- **[One Chance, Mossy Escape](https://github.com/Bolitupac/One-Chance--Mossy-Escape)** — 2D platformer that won Clash of Devs 2.0 Game Jam Nigeria
+- **[PR-AI Auditor](https://pr-ai.onrender.com/auditor)** — AI code review tool for GitHub & GitLab pull requests *(server may be down due to inactivity)*
+- **[Tarok Nurses Forum](https://taroknursesforum.org)** — Full platform (website + mobile app + backend) for membership, dues management, and administration
+- **[One Chance, Mossy Escape](https://bolitupac.itch.io/one-chance)** — 2D platformer that won Clash of Devs 2.0 Game Jam Nigeria
 
 I have more projects. Just ask.
 
